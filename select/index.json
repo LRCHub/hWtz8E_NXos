@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "L'amour Toujours(Tanzen Vision Rmx)",
+  "base_artist": "Gigi D'Agostino",
+  "createdAt": "2025-12-19T19:07:44.074352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L'Amour Toujours (Tanzen Vision RMX)",
+      "artist": "Gigi D'Agostino",
+      "has_synced": true,
+      "path": "select/01_L'Amour_Toujours_(Tanzen_Vision_RMX)_Gigi_D'Agostino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "L'amour Toujours(Tanzen Vision Rmx)",
+      "artist": "Gigi D'Agostino",
+      "has_synced": false,
+      "path": "select/02_L'amour_Toujours(Tanzen_Vision_Rmx)_Gigi_D'Agostino.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "L'amour Toujours (Tanzen Vision RMX)",
+      "artist": "Gigi Gryce",
+      "has_synced": false,
+      "path": "select/03_L'amour_Toujours_(Tanzen_Vision_RMX)_Gigi_Gryce.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L'Amour Toujours (Tanzen Vision Rmx)",
+      "artist": "Gigi D’Agostino",
+      "has_synced": true,
+      "path": "select/04_L'Amour_Toujours_(Tanzen_Vision_Rmx)_Gigi_D’Agostino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L'amour Toujours",
+      "artist": "Gigi D'Agostino",
+      "has_synced": false,
+      "path": "select/pl_01_L'amour_Toujours_Gigi_D'Agostino.txt"
+    }
+  ]
+}
